@@ -1,0 +1,9 @@
+C:\tietokannan_hyodyntaminen\T02Tehtavat\autotehtävä\Auto\obj\Debug\Autokauppa.csproj.AssemblyReference.cache
+C:\tietokannan_hyodyntaminen\T02Tehtavat\autotehtävä\Auto\obj\Debug\Autokauppa.view.MainMenu.resources
+C:\tietokannan_hyodyntaminen\T02Tehtavat\autotehtävä\Auto\obj\Debug\Autokauppa.csproj.GenerateResource.cache
+C:\tietokannan_hyodyntaminen\T02Tehtavat\autotehtävä\Auto\obj\Debug\Autokauppa.csproj.CoreCompileInputs.cache
+C:\tietokannan_hyodyntaminen\T02Tehtavat\autotehtävä\Auto\bin\Debug\Auto.exe.config
+C:\tietokannan_hyodyntaminen\T02Tehtavat\autotehtävä\Auto\bin\Debug\Auto.exe
+C:\tietokannan_hyodyntaminen\T02Tehtavat\autotehtävä\Auto\bin\Debug\Auto.pdb
+C:\tietokannan_hyodyntaminen\T02Tehtavat\autotehtävä\Auto\obj\Debug\Auto.exe
+C:\tietokannan_hyodyntaminen\T02Tehtavat\autotehtävä\Auto\obj\Debug\Auto.pdb
